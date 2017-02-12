@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="automationScripts.homepage.Auto_Practice_Homepage_Verify_Menu_Options_AT01">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- automationScripts.homepage.Auto_Practice_Homepage_Verify_Menu_Options_AT01 -->
+      <class name="automationScripts.homepage.Auto_Practice_Homepage_Add_Products_To_Cart_AT05">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.homepage.Auto_Practice_Homepage_Add_Products_To_Cart_AT05 -->
+      <class name="automationScripts.homepage.Auto_Practice_Homepage_ContactUs_Send_Details_AT02">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.homepage.Auto_Practice_Homepage_ContactUs_Send_Details_AT02 -->
+      <class name="automationScripts.loginModule.Auto_Practice_Login_Validate_Forgot_Passowrd_Link_AT04">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.loginModule.Auto_Practice_Login_Validate_Forgot_Passowrd_Link_AT04 -->
+      <class name="automationScripts.cart.Auto_Practice_Cart_Verify_Delete_Added_Product_AT04">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.cart.Auto_Practice_Cart_Verify_Delete_Added_Product_AT04 -->
+      <class name="automationScripts.myAccount.Auto_Practice_MyAccounts_Check_Options_AT01">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- automationScripts.myAccount.Auto_Practice_MyAccounts_Check_Options_AT01 -->
+      <class name="automationScripts.homepage.Auto_Practice_Homepage_Verify_Newsletter_Error_Message_AT03">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.homepage.Auto_Practice_Homepage_Verify_Newsletter_Error_Message_AT03 -->
+      <class name="automationScripts.cart.Auto_Practice_Cart_Add_Products_To_Cart_Through_SignIn_AT02">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- automationScripts.cart.Auto_Practice_Cart_Add_Products_To_Cart_Through_SignIn_AT02 -->
+      <class name="automationScripts.loginModule.Auto_Practice_Login_Unsuccesfull_Login_Invalid_Password_AT03">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.loginModule.Auto_Practice_Login_Unsuccesfull_Login_Invalid_Password_AT03 -->
+      <class name="automationScripts.cart.Auto_Practice_Cart_Already_AddedProduct_Place_The_Order_AT01">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.cart.Auto_Practice_Cart_Already_AddedProduct_Place_The_Order_AT01 -->
+      <class name="automationScripts.loginModule.Auto_Practice_Login_Unsuccesfull_Login_Invalid_UserID_AT02">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.loginModule.Auto_Practice_Login_Unsuccesfull_Login_Invalid_UserID_AT02 -->
+      <class name="automationScripts.cart.Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- automationScripts.cart.Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03 -->
+      <class name="automationScripts.myAccount.Auto_Practice_MyAccounts_Update_My_Personal_Information_AT03">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- automationScripts.myAccount.Auto_Practice_MyAccounts_Update_My_Personal_Information_AT03 -->
+      <class name="automationScripts.loginModule.Auto_Practice_Login_Succesfull_Login_AT01">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- automationScripts.loginModule.Auto_Practice_Login_Succesfull_Login_AT01 -->
+      <class name="automationScripts.myAccount.Auto_Practice_MyAccounts_Check_My_Personal_Information_AT02">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="execute"/>
+        </methods>
+      </class> <!-- automationScripts.myAccount.Auto_Practice_MyAccounts_Check_My_Personal_Information_AT02 -->
+      <class name="automationScripts.homepage.Auto_Practice_Homepage_Verify_Terms_And_Conditions_AT04">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- automationScripts.homepage.Auto_Practice_Homepage_Verify_Terms_And_Conditions_AT04 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,8 @@
+2017-01-04 09:21:27,714 - utility.Log -INFO - Application is launched
+2017-01-04 09:21:36,310 - utility.Log -INFO - Sign in button clicked
+2017-01-04 09:21:36,845 - utility.Log -INFO - User mail ID entered
+2017-01-04 09:21:37,425 - utility.Log -INFO - User password entered
+2017-01-04 09:21:40,899 - utility.Log -INFO - Sign In button clicked
+2017-01-04 09:21:41,514 - utility.Log -INFO - User info is printed
+2017-01-04 09:21:41,729 - utility.Log -INFO - User account title printed
+2017-01-04 09:21:46,758 - utility.Log -INFO - Sig out button clicked
