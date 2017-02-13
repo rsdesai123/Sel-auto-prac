@@ -9,7 +9,18 @@
 	<package name="automationScripts.loginModule.*" />
 		<package name="automationScripts.homepage.*" />
 			<package name="automationScripts.cart.*" />
+			<classes>
+			< exclude name="Auto_Practice_Cart_Verify_Delete_Added_Product_AT04"/>
+			< exclude name="Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03"/>
+			</classes>
 				<package name="automationScripts.myAccount.*" />
  </packages>
+</test>
+<test name="Cart- Alter added products tests">
+<package name="automationScripts.cart.*" />
+			<classes>
+			< include name="Auto_Practice_Cart_Verify_Delete_Added_Product_AT04"/>
+			< include name="Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03"/>
+			</classes>
 </test>
  </suite>
