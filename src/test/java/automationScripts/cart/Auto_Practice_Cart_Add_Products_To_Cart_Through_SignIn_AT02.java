@@ -78,7 +78,7 @@ public class Auto_Practice_Cart_Add_Products_To_Cart_Through_SignIn_AT02 {
 	      Log.info("Products successfully added to cart");
 	      actTxt=CartPage.CartLayerPage.addToCart_NoOfItemsAdded(driver).getText().trim();
 	      Assert.assertEquals("There is 1 item in your cart.", actTxt);
-	      Log.info("No of Products added to cart verified");
+	      Log.info("No of Products added to Cart verified");
 	      CartPage.CartLayerPage.cartLayerCloseWinBtn(driver).click();
 	      Log.info("Cart layer page closed");
 	      actTxt=HomePage.cartBtn(driver).getAttribute("textContent");
