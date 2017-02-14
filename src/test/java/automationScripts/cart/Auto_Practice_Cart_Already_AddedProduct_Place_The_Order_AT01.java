@@ -114,7 +114,7 @@ public class Auto_Practice_Cart_Already_AddedProduct_Place_The_Order_AT01 {
 		  CartPage.Payment.payByBankWireOptn(driver).click();
 		  Log.info("Bankwire pament option selected");
 		  Assert.assertTrue(CartPage.OrderSummary.payModeChoseTxt(driver).getText(), true);
-		  Log.info("Order summary tab opened");
+		  Log.info("Order summary tab opened with order details");
 		  CartPage.OrderSummary.ConfirmMyOrderBtn(driver).click();
 		  Log.info("I Confirm My Order button clicked");
 		  String orderConTxt="Your order on My Store is complete.";
