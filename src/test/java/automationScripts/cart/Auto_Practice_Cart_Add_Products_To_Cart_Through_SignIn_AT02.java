@@ -88,7 +88,7 @@ public class Auto_Practice_Cart_Add_Products_To_Cart_Through_SignIn_AT02 {
 	    	  System.out.println(" 1 Product added to Cart");  
 	      }
 	      Assert.assertEquals(prodName, CartPage.CartBlock.addedProdName(driver).getAttribute("title"));
-	      Log.info("Products added to cart verified");
+	      Log.info("Products added to Cart verified");
 	      
 	  }
 	  catch(Exception ex)
