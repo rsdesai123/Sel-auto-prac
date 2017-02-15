@@ -33,7 +33,7 @@ public class Auto_Practice_Cart_Verify_Delete_Added_Product_AT04 {
 	public static WebDriver driver;
 	private static BaseClass baseClass=new BaseClass(driver);
 	@Parameters("browser")
-	@BeforeMethod
+	@BeforeClass
 	public static void setUp(String browser)
 	{
 		try
