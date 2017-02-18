@@ -4,25 +4,11 @@
 <suite name="Suite1" parallel="none" thread-count="2">
  <parameter name="browser" value="chrome"></parameter>
  <parameter name="browser2" value="firefox"></parameter>
- <test name="Test">
- <packages>
-	<package name="automationScripts.loginModule.*" />
-		<package name="automationScripts.homepage.*" />
-			<package name="automationScripts.cart.*" />
-			<classes>
-			< include name="Auto_Practice_Cart_Already_AddedProduct_Place_The_Order_AT01"/>
-			< include name="Auto_Practice_Cart_Add_Products_To_Cart_Through_SignIn_AT02"/>
-			< exclude name="Auto_Practice_Cart_Verify_Delete_Added_Product_AT04"/>
-			< exclude name="Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03"/>
-			</classes>
-				<package name="automationScripts.myAccount.*" />
- </packages>
-</test>
 <test name="Cart- Alter added products tests">
 <package name="automationScripts.cart.*" />
 			<classes>
-			< include name="Auto_Practice_Cart_Verify_Delete_Added_Product_AT04"/>
-			< include name="Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03"/>
+			< class name="Auto_Practice_Cart_Verify_Delete_Added_Product_AT04"/>
+			< class name="Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03"/>
 			</classes>
 </test>
  </suite>
