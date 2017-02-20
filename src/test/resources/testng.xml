@@ -8,16 +8,7 @@
 	    <package name="automationScripts.loginModule.*" />
 		<package name="automationScripts.homepage.*" />
 		<package name="automationScripts.myAccount.*" />
-		<package name="automationScripts.cart" >
-			<include name="Auto_Practice_Cart_Already_AddedProduct_Place_The_Order_AT01"/>
-			<include name="Auto_Practice_Cart_Add_Products_To_Cart_Through_SignIn_AT02"/>
-			<exclude name="Auto_Practice_Cart_Verify_Delete_Added_Product_AT04"/>
-			<exclude name="Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03"/>
-			</package>
-			<package name="automationScripts.cart" >
-			<include name="Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03"/>
-			<include name="Auto_Practice_Cart_Verify_Delete_Added_Product_AT04"/>
-			</package>
+		<package name="automationScripts.cart.*" />
 </packages>
 </test>
 </suite>
