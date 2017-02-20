@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite" parallel="none">
-  <test name="Test">
-  <parameter name="browser" value="chrome"></parameter>
-    <packages>
-			<package name="automationScripts.loginModule.*" />
-			<package name="automationScripts.myAccount.*" />
-			<package name="automationScripts.homepage.*" />
-			<package name="automationScripts.cart.*" />
-		</packages>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite1" thread-count="2">
+ <parameter name="browser" value="chrome"></parameter>
+ <parameter name="browser2" value="firefox"></parameter>
+ <test name="Test">
+ <packages>
+	    <package name="automationScripts.loginModule.*" />
+		<package name="automationScripts.homepage.*" />
+		<package name="automationScripts.myAccount.*" />
+		<package name="automationScripts.cart.*" />
+</packages>
+</test>
+</suite>

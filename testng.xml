@@ -1,15 +1,14 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite1" parallel="" thread-count="1">
+<suite name="Suite1" parallel="none" thread-count="2">
  <parameter name="browser" value="chrome"></parameter>
  <parameter name="browser2" value="firefox"></parameter>
- <test name="Test">
- <packages>
-	<package name="automationScripts.loginModule.*" />
-		<package name="automationScripts.homepage.*" />
-			<package name="automationScripts.cart.*" />
-				<package name="automationScripts.myAccount.*" />
- </packages>
+<test name="Cart- Alter added products tests">
+<package name="automationScripts.cart.*" />
+			<classes>
+			< class name="Auto_Practice_Cart_Verify_Delete_Added_Product_AT04"/>
+			< class name="Auto_Practice_Cart_Verify_Details_Of_Added_Product_AT03"/>
+			</classes>
 </test>
  </suite>

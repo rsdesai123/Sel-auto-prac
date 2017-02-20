@@ -1,0 +1,609 @@
+2017-02-18 19:36:38,557 - utility.Log -INFO - Application is launched
+2017-02-18 19:36:46,183 - utility.Log -INFO - Sign in link clicked
+2017-02-18 19:36:53,773 - utility.Log -INFO - SignIn page title verified
+2017-02-18 19:36:56,786 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:36:57,693 - utility.Log -INFO - User password entered
+2017-02-18 19:37:00,217 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:37:00,670 - utility.Log -INFO - My account information message verified
+2017-02-18 19:37:29,454 - utility.Log -INFO - Driver session closed
+2017-02-18 19:37:59,887 - utility.Log -INFO - Application is launched
+2017-02-18 19:38:03,071 - utility.Log -INFO - Sign in link clicked
+2017-02-18 19:38:14,866 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:38:15,159 - utility.Log -INFO - User password entered
+2017-02-18 19:38:15,267 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:38:17,910 - utility.Log -INFO - User info is printed
+2017-02-18 19:38:17,943 - utility.Log -INFO - User account title printed
+2017-02-18 19:38:19,797 - utility.Log -INFO - Sign out button clicked
+2017-02-18 19:38:23,016 - utility.Log -INFO - Driver session closed
+2017-02-18 19:39:55,924 - utility.Log -INFO - Application is launched
+2017-02-18 19:40:04,517 - utility.Log -INFO - Contact Us link on hompeage is clicked
+2017-02-18 19:40:09,731 - utility.Log -INFO - Subject Heading dropdown options are printed
+2017-02-18 19:40:12,003 - utility.Log -INFO - 'Customer service' option selected from the dropdown
+2017-02-18 19:40:14,454 - utility.Log -INFO - Email address enetered
+2017-02-18 19:40:15,326 - utility.Log -INFO - Order reference entered
+2017-02-18 19:40:25,514 - utility.Log -INFO - File upload button clicked
+2017-02-18 19:40:32,406 - utility.Log -INFO - File uploaded successfully
+2017-02-18 19:40:34,519 - utility.Log -INFO - Text entered into Message box
+2017-02-18 19:40:34,957 - utility.Log -INFO - Save button clicked
+2017-02-18 19:40:56,378 - utility.Log -INFO - Driver session closed
+2017-02-18 19:41:42,887 - utility.Log -INFO - Application is launched
+2017-02-18 19:41:45,535 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 19:41:46,246 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:41:46,492 - utility.Log -INFO - User password entered
+2017-02-18 19:41:47,737 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:41:47,781 - utility.Log -INFO - Error 1 compared
+2017-02-18 19:41:47,875 - utility.Log -INFO - Error 2 compared
+2017-02-18 19:41:48,486 - utility.Log -INFO - Driver session closed
+2017-02-18 19:42:10,550 - utility.Log -INFO - Application is launched
+2017-02-18 19:42:12,723 - utility.Log -INFO - Homepage SignIn link clicked
+2017-02-18 19:42:12,966 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:42:13,138 - utility.Log -INFO - User password entered
+2017-02-18 19:42:14,799 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:42:14,800 - utility.Log -INFO - User logged into the account
+2017-02-18 19:42:14,859 - utility.Log -INFO - Account user welcome text verified
+2017-02-18 19:42:15,255 - utility.Log -INFO - Driver session closed
+2017-02-18 19:42:36,895 - utility.Log -INFO - Application is launched
+2017-02-18 19:42:41,721 - utility.Log -INFO - Product added to cart
+2017-02-18 19:42:47,814 - utility.Log -INFO - Checkout button on Cart block clicked
+2017-02-18 19:42:48,453 - utility.Log -INFO - Number of products under shoppig cart verified
+2017-02-18 19:42:48,500 - utility.Log -INFO - The product added to cart is in stock
+2017-02-18 19:42:51,226 - utility.Log -INFO - Proceed to checkout button clicked
+2017-02-18 19:42:51,905 - utility.Log -INFO - Sing in to account tab opened
+2017-02-18 19:42:52,073 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:42:52,277 - utility.Log -INFO - User password entered
+2017-02-18 19:42:54,448 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:42:54,448 - utility.Log -INFO - User logged into account
+2017-02-18 19:42:54,680 - utility.Log -INFO - Tab to select delivery address is opened
+2017-02-18 19:42:54,758 - utility.Log -INFO - 'Use the delivery address as the billing address' checkbox is checked
+2017-02-18 19:42:55,036 - utility.Log -INFO - Delivery address 'My alternate address' is selected
+2017-02-18 19:42:55,317 - utility.Log -INFO - Comments added about the placed order
+2017-02-18 19:42:57,815 - utility.Log -INFO - Proceed to checkout button on Address tab clicked
+2017-02-18 19:42:58,027 - utility.Log -INFO - Shipping tab gets opened
+2017-02-18 19:42:58,090 - utility.Log -INFO - Terms of service checkbox not checked
+2017-02-18 19:42:58,632 - utility.Log -INFO - Proceed to checkout button on Shipping tab clicked
+2017-02-18 19:42:58,884 - utility.Log -INFO - Error box closed
+2017-02-18 19:43:00,402 - utility.Log -INFO - 'Terms of service' checkbox checked
+2017-02-18 19:43:00,447 - utility.Log -INFO - Proceed to checkout button on Shipping tab clicked
+2017-02-18 19:43:03,451 - utility.Log -INFO - Bankwire pament option selected
+2017-02-18 19:43:04,745 - utility.Log -INFO - Order summary tab opened with order details
+2017-02-18 19:43:06,526 - utility.Log -INFO - I Confirm My Order button clicked
+2017-02-18 19:43:07,917 - utility.Log -INFO - Order confirmation text verified
+2017-02-18 19:43:07,980 - utility.Log -INFO - Order reference text verified
+2017-02-18 19:43:08,011 - utility.Log -INFO - Order payment received text verified
+2017-02-18 19:43:11,795 - utility.Log -INFO - Home icon clicked
+2017-02-18 19:43:12,685 - utility.Log -INFO - Driver session closed
+2017-02-18 19:43:47,276 - utility.Log -INFO - Application is launched
+2017-02-18 19:43:49,233 - utility.Log -INFO - Sign in link clicked
+2017-02-18 19:43:49,271 - utility.Log -INFO - SignIn page title verified
+2017-02-18 19:43:49,439 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:43:49,620 - utility.Log -INFO - User password entered
+2017-02-18 19:43:49,729 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:43:51,309 - utility.Log -INFO - My account information message verified
+2017-02-18 19:44:41,898 - utility.Log -INFO - Application is launched
+2017-02-18 19:44:44,014 - utility.Log -INFO - Homepage SignIn link clicked
+2017-02-18 19:44:44,263 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:44:44,430 - utility.Log -INFO - User password entered
+2017-02-18 19:44:46,167 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:44:46,168 - utility.Log -INFO - User logged into the account
+2017-02-18 19:44:46,214 - utility.Log -INFO - Account user welcome text verified
+2017-02-18 19:44:47,505 - utility.Log -INFO - My Personal Information button clicked
+2017-02-18 19:44:50,691 - utility.Log -INFO - Home button clicked
+2017-02-18 19:44:50,826 - utility.Log -INFO - Text on the homepage verified
+2017-02-18 19:44:51,757 - utility.Log -INFO - User account link on homepage clicked
+2017-02-18 19:44:51,758 - utility.Log -INFO - Account user welcome text verified again
+2017-02-18 19:44:52,995 - utility.Log -INFO - My Personal Information button clicked
+2017-02-18 19:44:53,075 - utility.Log -INFO - My account information text verified
+2017-02-18 19:44:53,825 - utility.Log -INFO - DOB_Day verified
+2017-02-18 19:45:14,108 - utility.Log -INFO - DOB_Month verified
+2017-02-18 19:45:34,748 - utility.Log -INFO - DOB_Year verified
+2017-02-18 19:45:36,570 - utility.Log -INFO - Save button clicked
+2017-02-18 19:45:37,081 - utility.Log -INFO - Current password entered
+2017-02-18 19:45:38,335 - utility.Log -INFO - Save button clicked
+2017-02-18 19:45:38,395 - utility.Log -INFO - Personal information save message verified
+2017-02-18 19:45:39,621 - utility.Log -INFO - Driver session closed
+2017-02-18 19:46:05,055 - utility.Log -INFO - Application is launched
+2017-02-18 19:46:07,308 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 19:46:07,866 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:46:08,087 - utility.Log -INFO - User password entered
+2017-02-18 19:46:08,196 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:46:09,309 - utility.Log -INFO - Error 1 compared
+2017-02-18 19:46:09,356 - utility.Log -INFO - Error 2 compared
+2017-02-18 19:46:11,631 - utility.Log -INFO - Driver session closed
+2017-02-18 19:46:32,633 - utility.Log -INFO - Application is launched
+2017-02-18 19:46:32,764 - utility.Log -INFO - Women menu tooltip text verified
+2017-02-18 19:46:32,866 - utility.Log -INFO - Submenus of 'Women->Tops are prrinted
+2017-02-18 19:46:32,921 - utility.Log -INFO - Submenus of 'Women->Dresses are printed
+2017-02-18 19:46:33,565 - utility.Log -INFO - Tooltip texts of Women->Tops submenus printed
+2017-02-18 19:46:33,710 - utility.Log -INFO - Tooltip text of DRESSES menu verified
+2017-02-18 19:46:33,866 - utility.Log -INFO - Submenus of 'Women->Dresses are printed
+2017-02-18 19:46:34,051 - utility.Log -INFO - Tooltip texts of Women->Tops submenus printed
+2017-02-18 19:46:34,135 - utility.Log -INFO - Tooltip text of T-SHIRTS menu verified
+2017-02-18 19:46:59,674 - utility.Log -INFO - Driver session closed
+2017-02-18 19:47:39,406 - utility.Log -INFO - Application is launched
+2017-02-18 19:47:41,829 - utility.Log -INFO - Sign in link clicked
+2017-02-18 19:47:41,880 - utility.Log -INFO - SignIn page title verified
+2017-02-18 19:47:42,027 - utility.Log -INFO - User mail ID entered
+2017-02-18 19:47:42,201 - utility.Log -INFO - User password entered
+2017-02-18 19:47:42,286 - utility.Log -INFO - Sign In button clicked
+2017-02-18 19:47:43,762 - utility.Log -INFO - My account information message verified
+2017-02-18 19:47:46,720 - utility.Log -INFO - Casual dresses sub menu clicked
+2017-02-18 19:47:47,678 - utility.Log -INFO - Casual Dresses page to add product displayed
+2017-02-18 19:47:47,853 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 19:47:48,803 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 19:47:48,862 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 19:47:48,990 - utility.Log -INFO - Cart layer page closed
+2017-02-18 19:47:49,230 - utility.Log -INFO - Products added to cart verified
+2017-02-18 19:48:35,259 - utility.Log -INFO - Application is launched
+2017-02-18 19:48:41,595 - utility.Log -INFO - News Letter submission button clicked
+2017-02-18 19:48:41,673 - utility.Log -INFO - Newsletter submission Error message verified
+2017-02-18 19:48:55,177 - utility.Log -INFO - Driver session closed
+2017-02-18 19:49:29,350 - utility.Log -INFO - Application is launched
+2017-02-18 19:49:31,378 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 19:49:32,947 - utility.Log -INFO - Forget password message compared
+2017-02-18 19:49:32,987 - utility.Log -INFO - Email address field is available
+2017-02-18 19:49:33,018 - utility.Log -INFO - Retreive Password btn available and enabled
+2017-02-18 19:49:33,050 - utility.Log -INFO - Home icon tooltip text printed
+2017-02-18 19:49:36,318 - utility.Log -INFO - Home icon clicked
+2017-02-18 19:49:36,385 - utility.Log -INFO - Returned to homepage
+2017-02-18 19:49:41,185 - utility.Log -INFO - Driver session closed
+2017-02-18 19:49:56,033 - utility.Log -INFO - Application is launched
+2017-02-18 19:49:57,166 - utility.Log -INFO - Terms and Conditions link clicked
+2017-02-18 19:49:57,317 - utility.Log -INFO - Terms and conditions page header message verified
+2017-02-18 19:49:57,351 - utility.Log -INFO - Terms and conditions rule1 message verified
+2017-02-18 19:49:57,398 - utility.Log -INFO - Terms and conditions rule2 message verified
+2017-02-18 19:49:57,445 - utility.Log -INFO - Terms and conditions rule3 message verified
+2017-02-18 19:50:00,551 - utility.Log -INFO - Home icon clicked
+2017-02-18 19:50:00,805 - utility.Log -INFO - Driver session closed
+2017-02-18 20:01:01,407 - utility.Log -INFO - Application is launched
+2017-02-18 20:01:02,087 - utility.Log -INFO - Cart button clicked
+2017-02-18 20:01:04,878 - utility.Log -INFO - Shipping Cart Summary title verified
+2017-02-18 20:01:04,957 - utility.Log -INFO - Shopping cart summary alert warning verified
+2017-02-18 20:01:07,307 - utility.Log -INFO - T-shirts main menu clicked
+2017-02-18 20:01:07,452 - utility.Log -INFO - T-shirts page to add product displayed
+2017-02-18 20:01:08,592 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:01:35,955 - utility.Log -INFO - Driver session closed
+2017-02-18 20:02:08,140 - utility.Log -INFO - Application is launched
+2017-02-18 20:02:08,219 - utility.Log -INFO - Homepage SignIn link clicked
+2017-02-18 20:02:18,892 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:02:19,086 - utility.Log -INFO - User password entered
+2017-02-18 20:02:20,964 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:02:20,965 - utility.Log -INFO - User logged into the account
+2017-02-18 20:02:21,086 - utility.Log -INFO - Account user welcome text verified
+2017-02-18 20:02:22,617 - utility.Log -INFO - My Personal Information button clicked
+2017-02-18 20:02:22,702 - utility.Log -INFO - My account information text verified
+2017-02-18 20:02:22,733 - utility.Log -INFO - First name verified
+2017-02-18 20:02:22,780 - utility.Log -INFO - Last name verified
+2017-02-18 20:02:22,796 - utility.Log -INFO - Email address verified
+2017-02-18 20:02:23,690 - utility.Log -INFO - DOB_Day verified
+2017-02-18 20:02:23,922 - utility.Log -INFO - DOB_Month verified
+2017-02-18 20:02:24,474 - utility.Log -INFO - DOB_Year verified
+2017-02-18 20:02:24,511 - utility.Log -INFO - Back to account button enabled
+2017-02-18 20:02:24,565 - utility.Log -INFO - Home button enabled
+2017-02-18 20:02:25,584 - utility.Log -INFO - Back to account button clicked
+2017-02-18 20:02:26,933 - utility.Log -INFO - My Personal Information button clicked
+2017-02-18 20:02:27,126 - utility.Log -INFO - Current password entered
+2017-02-18 20:02:28,447 - utility.Log -INFO - Save button clicked
+2017-02-18 20:02:28,503 - utility.Log -INFO - Personal information save message verified
+2017-02-18 20:02:29,412 - utility.Log -INFO - Driver session closed
+2017-02-18 20:02:53,579 - utility.Log -INFO - Application is launched
+2017-02-18 20:02:55,474 - utility.Log -INFO - Sign in link clicked
+2017-02-18 20:02:55,536 - utility.Log -INFO - SignIn page title verified
+2017-02-18 20:02:55,670 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:02:55,812 - utility.Log -INFO - User password entered
+2017-02-18 20:02:55,891 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:02:57,643 - utility.Log -INFO - My account information message verified
+2017-02-18 20:03:01,571 - utility.Log -INFO - Casual dresses sub menu clicked
+2017-02-18 20:03:01,608 - utility.Log -INFO - Casual Dresses page to add product displayed
+2017-02-18 20:03:01,770 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:03:02,663 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:03:02,747 - utility.Log -INFO - No of Products added to Cart verified
+2017-02-18 20:03:03,316 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:03:03,493 - utility.Log -INFO - Products added to Cart verified
+2017-02-18 20:03:03,872 - utility.Log -INFO - Driver session closed
+2017-02-18 20:03:31,038 - utility.Log -INFO - Application is launched
+2017-02-18 20:03:33,487 - utility.Log -INFO - Sign in link clicked
+2017-02-18 20:03:33,768 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:03:33,941 - utility.Log -INFO - User password entered
+2017-02-18 20:03:35,514 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:03:35,612 - utility.Log -INFO - User info is printed
+2017-02-18 20:03:35,627 - utility.Log -INFO - User account title printed
+2017-02-18 20:03:38,291 - utility.Log -INFO - Sign out button clicked
+2017-02-18 20:03:38,494 - utility.Log -INFO - Driver session closed
+2017-02-18 20:05:34,154 - utility.Log -INFO - Application is launched
+2017-02-18 20:05:36,823 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 20:05:39,256 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:05:39,563 - utility.Log -INFO - User password entered
+2017-02-18 20:05:40,807 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:05:40,858 - utility.Log -INFO - Error 1 compared
+2017-02-18 20:05:40,905 - utility.Log -INFO - Error 2 compared
+2017-02-18 20:05:42,457 - utility.Log -INFO - Driver session closed
+2017-02-18 20:06:09,445 - utility.Log -INFO - Application is launched
+2017-02-18 20:06:11,767 - utility.Log -INFO - Homepage SignIn link clicked
+2017-02-18 20:06:11,984 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:06:12,151 - utility.Log -INFO - User password entered
+2017-02-18 20:06:12,232 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:06:12,233 - utility.Log -INFO - User logged into the account
+2017-02-18 20:06:13,890 - utility.Log -INFO - Account user welcome text verified
+2017-02-18 20:06:14,236 - utility.Log -INFO - Driver session closed
+2017-02-18 20:06:38,763 - utility.Log -INFO - Application is launched
+2017-02-18 20:06:46,024 - utility.Log -INFO - Product added to cart
+2017-02-18 20:06:48,488 - utility.Log -INFO - Checkout button on Cart block clicked
+2017-02-18 20:06:48,547 - utility.Log -INFO - Number of products under shoppig cart verified
+2017-02-18 20:06:48,594 - utility.Log -INFO - The product added to cart is in stock
+2017-02-18 20:06:50,860 - utility.Log -INFO - Proceed to checkout button clicked
+2017-02-18 20:06:51,116 - utility.Log -INFO - Sing in to account tab opened
+2017-02-18 20:06:51,299 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:06:51,455 - utility.Log -INFO - User password entered
+2017-02-18 20:06:53,363 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:06:53,364 - utility.Log -INFO - User logged into account
+2017-02-18 20:06:53,819 - utility.Log -INFO - Tab to select delivery address is opened
+2017-02-18 20:06:53,868 - utility.Log -INFO - 'Use the delivery address as the billing address' checkbox is checked
+2017-02-18 20:06:54,309 - utility.Log -INFO - Delivery address 'My alternate address' is selected
+2017-02-18 20:06:54,815 - utility.Log -INFO - Comments added about the placed order
+2017-02-18 20:06:56,716 - utility.Log -INFO - Proceed to checkout button on Address tab clicked
+2017-02-18 20:06:56,927 - utility.Log -INFO - Shipping tab gets opened
+2017-02-18 20:06:56,974 - utility.Log -INFO - Terms of service checkbox not checked
+2017-02-18 20:06:57,227 - utility.Log -INFO - Proceed to checkout button on Shipping tab clicked
+2017-02-18 20:06:57,560 - utility.Log -INFO - Error box closed
+2017-02-18 20:06:58,868 - utility.Log -INFO - 'Terms of service' checkbox checked
+2017-02-18 20:06:58,929 - utility.Log -INFO - Proceed to checkout button on Shipping tab clicked
+2017-02-18 20:07:00,591 - utility.Log -INFO - Bankwire pament option selected
+2017-02-18 20:07:02,498 - utility.Log -INFO - Order summary tab opened with order details
+2017-02-18 20:07:05,109 - utility.Log -INFO - I Confirm My Order button clicked
+2017-02-18 20:07:05,645 - utility.Log -INFO - Order confirmation text verified
+2017-02-18 20:07:05,698 - utility.Log -INFO - Order reference text verified
+2017-02-18 20:07:05,744 - utility.Log -INFO - Order payment received text verified
+2017-02-18 20:07:08,943 - utility.Log -INFO - Home icon clicked
+2017-02-18 20:07:09,330 - utility.Log -INFO - Driver session closed
+2017-02-18 20:07:38,219 - utility.Log -INFO - Application is launched
+2017-02-18 20:07:40,600 - utility.Log -INFO - Sign in link clicked
+2017-02-18 20:07:40,660 - utility.Log -INFO - SignIn page title verified
+2017-02-18 20:07:40,832 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:07:40,999 - utility.Log -INFO - User password entered
+2017-02-18 20:07:42,655 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:07:42,716 - utility.Log -INFO - My account information message verified
+2017-02-18 20:07:43,033 - utility.Log -INFO - Casual dresses sub menu clicked
+2017-02-18 20:07:46,507 - utility.Log -INFO - Casual Dresses page to add product displayed
+2017-02-18 20:07:46,679 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:07:47,549 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:07:47,638 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:07:47,719 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:07:49,323 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:07:50,039 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:07:50,113 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:07:50,185 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:07:50,313 - utility.Log -INFO - Products added to cart verified
+2017-02-18 20:09:15,519 - utility.Log -INFO - Application is launched
+2017-02-18 20:09:18,122 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 20:09:18,942 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:09:19,114 - utility.Log -INFO - User password entered
+2017-02-18 20:09:20,316 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:09:20,370 - utility.Log -INFO - Error 1 compared
+2017-02-18 20:09:20,419 - utility.Log -INFO - Error 2 compared
+2017-02-18 20:09:20,786 - utility.Log -INFO - Driver session closed
+2017-02-18 20:09:42,856 - utility.Log -INFO - Application is launched
+2017-02-18 20:09:42,966 - utility.Log -INFO - Women menu tooltip text verified
+2017-02-18 20:09:43,116 - utility.Log -INFO - Submenus of 'Women->Tops are prrinted
+2017-02-18 20:09:43,490 - utility.Log -INFO - Submenus of 'Women->Dresses are printed
+2017-02-18 20:09:45,138 - utility.Log -INFO - Tooltip texts of Women->Tops submenus printed
+2017-02-18 20:09:45,271 - utility.Log -INFO - Tooltip text of DRESSES menu verified
+2017-02-18 20:09:45,433 - utility.Log -INFO - Submenus of 'Women->Dresses are printed
+2017-02-18 20:09:45,607 - utility.Log -INFO - Tooltip texts of Women->Tops submenus printed
+2017-02-18 20:09:45,691 - utility.Log -INFO - Tooltip text of T-SHIRTS menu verified
+2017-02-18 20:09:51,085 - utility.Log -INFO - T-shirts photo frame text under Catalog page verified
+2017-02-18 20:10:17,821 - utility.Log -INFO - Driver session closed
+2017-02-18 20:10:44,450 - utility.Log -INFO - Application is launched
+2017-02-18 20:10:46,813 - utility.Log -INFO - Sign in link clicked
+2017-02-18 20:10:46,897 - utility.Log -INFO - SignIn page title verified
+2017-02-18 20:10:47,201 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:10:47,822 - utility.Log -INFO - User password entered
+2017-02-18 20:10:49,578 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:10:49,621 - utility.Log -INFO - My account information message verified
+2017-02-18 20:10:52,677 - utility.Log -INFO - Casual dresses sub menu clicked
+2017-02-18 20:10:52,727 - utility.Log -INFO - Casual Dresses page to add product displayed
+2017-02-18 20:10:52,884 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:10:53,631 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:10:53,703 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:10:53,792 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:10:53,909 - utility.Log -INFO - Products added to cart verified
+2017-02-18 20:11:59,428 - utility.Log -INFO - Application is launched
+2017-02-18 20:12:04,261 - utility.Log -INFO - News Letter submission button clicked
+2017-02-18 20:12:04,334 - utility.Log -INFO - Newsletter submission Error message verified
+2017-02-18 20:12:06,140 - utility.Log -INFO - Driver session closed
+2017-02-18 20:12:37,397 - utility.Log -INFO - Application is launched
+2017-02-18 20:12:39,588 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 20:12:41,389 - utility.Log -INFO - Forget password message compared
+2017-02-18 20:12:41,437 - utility.Log -INFO - Email address field is available
+2017-02-18 20:12:41,468 - utility.Log -INFO - Retreive Password btn available and enabled
+2017-02-18 20:12:41,507 - utility.Log -INFO - Home icon tooltip text printed
+2017-02-18 20:12:45,180 - utility.Log -INFO - Home icon clicked
+2017-02-18 20:12:45,225 - utility.Log -INFO - Returned to homepage
+2017-02-18 20:12:46,468 - utility.Log -INFO - Driver session closed
+2017-02-18 20:13:26,023 - utility.Log -INFO - Application is launched
+2017-02-18 20:13:27,611 - utility.Log -INFO - Terms and Conditions link clicked
+2017-02-18 20:13:30,451 - utility.Log -INFO - Terms and conditions page header message verified
+2017-02-18 20:13:30,530 - utility.Log -INFO - Terms and conditions rule1 message verified
+2017-02-18 20:13:30,593 - utility.Log -INFO - Terms and conditions rule2 message verified
+2017-02-18 20:13:30,655 - utility.Log -INFO - Terms and conditions rule3 message verified
+2017-02-18 20:13:36,120 - utility.Log -INFO - Home icon clicked
+2017-02-18 20:13:39,089 - utility.Log -INFO - Driver session closed
+2017-02-18 20:13:47,812 - utility.Log -INFO - Cart button on homepage clicked
+2017-02-18 20:13:53,980 - utility.Log -INFO - Shopping Cart page opened
+2017-02-18 20:13:55,784 - utility.Log -INFO - Product 1 quantity verified
+2017-02-18 20:13:55,826 - utility.Log -INFO - Product 2 quantity verified
+2017-02-18 20:13:57,671 - utility.Log -INFO - Button to delete product clicked
+2017-02-18 20:14:03,468 - utility.Log -INFO - Homepage icon clicked
+2017-02-18 20:14:03,655 - utility.Log -INFO - Only one product remaining in cart
+2017-02-18 20:14:07,476 - utility.Log -INFO - Signout button clicked
+2017-02-18 20:14:14,089 - utility.Log -INFO - Cart button on homepage clicked
+2017-02-18 20:14:14,220 - utility.Log -INFO - Product description printed
+2017-02-18 20:14:14,345 - utility.Log -INFO - Product availability status checked
+2017-02-18 20:14:14,448 - utility.Log -INFO - Product Unit Price printed
+2017-02-18 20:14:14,495 - utility.Log -INFO - Product quantity verified
+2017-02-18 20:14:14,547 - utility.Log -INFO - Total unit price printed
+2017-02-18 20:14:14,609 - utility.Log -INFO - Total product cost printed
+2017-02-18 20:14:14,719 - utility.Log -INFO - Total shipping cost printed
+2017-02-18 20:14:14,828 - utility.Log -INFO - Total product price without tax printed
+2017-02-18 20:14:14,923 - utility.Log -INFO - Total product tax printed
+2017-02-18 20:14:14,970 - utility.Log -INFO - Total container price printed
+2017-02-18 20:14:15,108 - utility.Log -INFO - Button to increase product quantity by one unit clicked
+2017-02-18 20:14:16,494 - utility.Log -INFO - Product quantity increased by one unit and same is verified
+2017-02-18 20:14:16,904 - utility.Log -INFO - Button to decrease product quantity by one unit clicked
+2017-02-18 20:14:18,251 - utility.Log -INFO - Product quantity decreased by one unit and same is verified
+2017-02-18 20:14:19,159 - utility.Log -INFO - Delivery address and Invoice addresses are verified
+2017-02-18 20:14:28,910 - utility.Log -INFO - Homepage icon clicked
+2017-02-18 20:14:31,856 - utility.Log -INFO - Signout button clicked
+2017-02-18 20:43:11,394 - utility.Log -INFO - Application is launched
+2017-02-18 20:43:14,732 - utility.Log -INFO - Sign in link clicked
+2017-02-18 20:43:14,955 - utility.Log -INFO - SignIn page title verified
+2017-02-18 20:43:15,501 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:43:15,884 - utility.Log -INFO - User password entered
+2017-02-18 20:43:17,985 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:43:18,158 - utility.Log -INFO - My account information message verified
+2017-02-18 20:43:22,288 - utility.Log -INFO - Casual dresses sub menu clicked
+2017-02-18 20:43:22,436 - utility.Log -INFO - Casual Dresses page to add product displayed
+2017-02-18 20:43:22,651 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:43:23,403 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:43:23,460 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:43:23,853 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:43:25,626 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:43:26,465 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:43:26,537 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:43:26,597 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:43:26,806 - utility.Log -INFO - Products added to cart verified
+2017-02-18 20:43:29,873 - utility.Log -INFO - Cart button on homepage clicked
+2017-02-18 20:43:30,345 - utility.Log -INFO - Shopping Cart page opened
+2017-02-18 20:43:31,771 - utility.Log -INFO - Product 1 quantity verified
+2017-02-18 20:43:31,807 - utility.Log -INFO - Product 2 quantity verified
+2017-02-18 20:43:33,811 - utility.Log -INFO - Button to delete product clicked
+2017-02-18 20:43:40,040 - utility.Log -INFO - Homepage icon clicked
+2017-02-18 20:43:40,412 - utility.Log -INFO - Only one product remaining in cart
+2017-02-18 20:43:43,985 - utility.Log -INFO - Signout button clicked
+2017-02-18 20:43:47,333 - utility.Log -INFO - Driver session closed
+2017-02-18 20:44:32,297 - utility.Log -INFO - Application is launched
+2017-02-18 20:44:34,587 - utility.Log -INFO - Sign in link clicked
+2017-02-18 20:44:34,640 - utility.Log -INFO - SignIn page title verified
+2017-02-18 20:44:34,866 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:44:35,030 - utility.Log -INFO - User password entered
+2017-02-18 20:44:35,142 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:44:37,135 - utility.Log -INFO - My account information message verified
+2017-02-18 20:44:37,534 - utility.Log -INFO - Casual dresses sub menu clicked
+2017-02-18 20:44:40,590 - utility.Log -INFO - Casual Dresses page to add product displayed
+2017-02-18 20:44:40,776 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:44:41,586 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:44:41,650 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:44:41,799 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:44:42,015 - utility.Log -INFO - Products added to cart verified
+2017-02-18 20:44:42,099 - utility.Log -INFO - Cart button on homepage clicked
+2017-02-18 20:44:46,197 - utility.Log -INFO - Cart button on homepage clicked
+2017-02-18 20:44:46,286 - utility.Log -INFO - Product description printed
+2017-02-18 20:44:46,364 - utility.Log -INFO - Product availability status checked
+2017-02-18 20:44:46,423 - utility.Log -INFO - Product Unit Price printed
+2017-02-18 20:44:46,470 - utility.Log -INFO - Product quantity verified
+2017-02-18 20:44:46,506 - utility.Log -INFO - Total unit price printed
+2017-02-18 20:44:46,552 - utility.Log -INFO - Total product cost printed
+2017-02-18 20:44:46,603 - utility.Log -INFO - Total shipping cost printed
+2017-02-18 20:44:46,659 - utility.Log -INFO - Total product price without tax printed
+2017-02-18 20:44:46,706 - utility.Log -INFO - Total product tax printed
+2017-02-18 20:44:46,737 - utility.Log -INFO - Total container price printed
+2017-02-18 20:44:46,851 - utility.Log -INFO - Button to increase product quantity by one unit clicked
+2017-02-18 20:44:49,715 - utility.Log -INFO - Cart button on homepage clicked
+2017-02-18 20:44:49,776 - utility.Log -INFO - Product description printed
+2017-02-18 20:44:49,816 - utility.Log -INFO - Product availability status checked
+2017-02-18 20:44:49,844 - utility.Log -INFO - Product Unit Price printed
+2017-02-18 20:44:50,436 - utility.Log -INFO - Driver session closed
+2017-02-18 20:56:50,316 - utility.Log -INFO - Application is launched
+2017-02-18 20:56:53,563 - utility.Log -INFO - Sign in link clicked
+2017-02-18 20:56:53,861 - utility.Log -INFO - SignIn page title verified
+2017-02-18 20:56:54,607 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:56:54,963 - utility.Log -INFO - User password entered
+2017-02-18 20:56:57,578 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:56:57,800 - utility.Log -INFO - My account information message verified
+2017-02-18 20:56:58,580 - utility.Log -INFO - Casual dresses sub menu clicked
+2017-02-18 20:57:02,642 - utility.Log -INFO - Casual Dresses page to add product displayed
+2017-02-18 20:57:02,888 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:57:03,827 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:57:03,892 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:57:04,127 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:57:07,299 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:57:08,136 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:57:08,184 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:57:08,260 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:57:08,502 - utility.Log -INFO - Products added to cart verified
+2017-02-18 20:57:10,970 - utility.Log -INFO - Cart button on homepage clicked
+2017-02-18 20:57:11,196 - utility.Log -INFO - Shopping Cart page opened
+2017-02-18 20:57:11,532 - utility.Log -INFO - Product 1 quantity verified
+2017-02-18 20:57:11,578 - utility.Log -INFO - Product 2 quantity verified
+2017-02-18 20:57:13,257 - utility.Log -INFO - Button to delete product clicked
+2017-02-18 20:57:18,696 - utility.Log -INFO - Homepage icon clicked
+2017-02-18 20:57:18,836 - utility.Log -INFO - Only one product remaining in cart
+2017-02-18 20:57:18,940 - utility.Log -INFO - Signout button clicked
+2017-02-18 20:57:19,530 - utility.Log -INFO - Driver session closed
+2017-02-18 20:57:44,139 - utility.Log -INFO - Application is launched
+2017-02-18 20:57:46,341 - utility.Log -INFO - Sign in link clicked
+2017-02-18 20:57:46,403 - utility.Log -INFO - SignIn page title verified
+2017-02-18 20:57:46,574 - utility.Log -INFO - User mail ID entered
+2017-02-18 20:57:46,742 - utility.Log -INFO - User password entered
+2017-02-18 20:57:48,973 - utility.Log -INFO - Sign In button clicked
+2017-02-18 20:57:49,033 - utility.Log -INFO - My account information message verified
+2017-02-18 20:57:52,780 - utility.Log -INFO - Casual dresses sub menu clicked
+2017-02-18 20:57:52,857 - utility.Log -INFO - Casual Dresses page to add product displayed
+2017-02-18 20:57:53,035 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 20:57:53,829 - utility.Log -INFO - Products successfully added to cart
+2017-02-18 20:57:53,910 - utility.Log -INFO - No of Products added to cart verified
+2017-02-18 20:57:53,974 - utility.Log -INFO - Cart layer page closed
+2017-02-18 20:57:54,150 - utility.Log -INFO - Products added to cart verified
+2017-02-18 20:57:57,268 - utility.Log -INFO - Cart button on homepage clicked
+2017-02-18 20:57:57,366 - utility.Log -INFO - Product description printed
+2017-02-18 20:57:57,417 - utility.Log -INFO - Product availability status checked
+2017-02-18 20:57:57,484 - utility.Log -INFO - Product Unit Price printed
+2017-02-18 20:57:57,531 - utility.Log -INFO - Product quantity verified
+2017-02-18 20:57:57,598 - utility.Log -INFO - Total unit price printed
+2017-02-18 20:57:57,642 - utility.Log -INFO - Total product cost printed
+2017-02-18 20:57:57,693 - utility.Log -INFO - Total shipping cost printed
+2017-02-18 20:57:57,737 - utility.Log -INFO - Total product price without tax printed
+2017-02-18 20:57:57,772 - utility.Log -INFO - Total product tax printed
+2017-02-18 20:57:57,816 - utility.Log -INFO - Total container price printed
+2017-02-18 20:57:57,930 - utility.Log -INFO - Button to increase product quantity by one unit clicked
+2017-02-18 20:57:59,548 - utility.Log -INFO - Product quantity increased by one unit and same is verified
+2017-02-18 20:57:59,616 - utility.Log -INFO - Button to decrease product quantity by one unit clicked
+2017-02-18 20:58:01,324 - utility.Log -INFO - Product quantity decreased by one unit and same is verified
+2017-02-18 20:58:02,114 - utility.Log -INFO - Delivery address and Invoice addresses are verified
+2017-02-18 20:58:06,652 - utility.Log -INFO - Homepage icon clicked
+2017-02-18 20:58:06,800 - utility.Log -INFO - Signout button clicked
+2017-02-18 20:58:14,319 - utility.Log -INFO - Driver session closed
+2017-02-18 22:42:45,343 - utility.Log -INFO - Application is launched
+2017-02-18 22:42:48,702 - utility.Log -INFO - Sign in link clicked
+2017-02-18 22:43:06,249 - utility.Log -INFO - User mail ID entered
+2017-02-18 22:43:06,771 - utility.Log -INFO - User password entered
+2017-02-18 22:43:10,430 - utility.Log -INFO - Sign In button clicked
+2017-02-18 22:43:10,800 - utility.Log -INFO - User info is printed
+2017-02-18 22:43:10,832 - utility.Log -INFO - User account title printed
+2017-02-18 22:43:13,437 - utility.Log -INFO - Sign out button clicked
+2017-02-18 22:43:16,585 - utility.Log -INFO - Driver session closed
+2017-02-18 22:43:47,897 - utility.Log -INFO - Application is launched
+2017-02-18 22:43:50,534 - utility.Log -INFO - Cart button clicked
+2017-02-18 22:43:50,783 - utility.Log -INFO - Shipping Cart Summary title verified
+2017-02-18 22:43:50,854 - utility.Log -INFO - Shopping cart summary alert warning verified
+2017-02-18 22:43:53,285 - utility.Log -INFO - T-shirts main menu clicked
+2017-02-18 22:43:53,444 - utility.Log -INFO - T-shirts page to add product displayed
+2017-02-18 22:43:55,105 - utility.Log -INFO - Add to Cart button clicked
+2017-02-18 22:44:12,108 - utility.Log -INFO - Driver session closed
+2017-02-18 22:44:45,838 - utility.Log -INFO - Application is launched
+2017-02-18 22:44:48,534 - utility.Log -INFO - Homepage SignIn link clicked
+2017-02-18 22:44:49,152 - utility.Log -INFO - User mail ID entered
+2017-02-18 22:44:49,376 - utility.Log -INFO - User password entered
+2017-02-18 22:44:51,420 - utility.Log -INFO - Sign In button clicked
+2017-02-18 22:44:51,424 - utility.Log -INFO - User logged into the account
+2017-02-18 22:44:51,509 - utility.Log -INFO - Account user welcome text verified
+2017-02-18 22:44:53,088 - utility.Log -INFO - My Personal Information button clicked
+2017-02-18 22:44:53,246 - utility.Log -INFO - My account information text verified
+2017-02-18 22:44:53,292 - utility.Log -INFO - First name verified
+2017-02-18 22:44:53,328 - utility.Log -INFO - Last name verified
+2017-02-18 22:44:53,364 - utility.Log -INFO - Email address verified
+2017-02-18 22:44:54,346 - utility.Log -INFO - DOB_Day verified
+2017-02-18 22:44:54,613 - utility.Log -INFO - DOB_Month verified
+2017-02-18 22:44:55,148 - utility.Log -INFO - DOB_Year verified
+2017-02-18 22:44:55,180 - utility.Log -INFO - Back to account button enabled
+2017-02-18 22:44:55,195 - utility.Log -INFO - Home button enabled
+2017-02-18 22:44:56,795 - utility.Log -INFO - Back to account button clicked
+2017-02-18 22:44:58,264 - utility.Log -INFO - My Personal Information button clicked
+2017-02-18 22:44:58,611 - utility.Log -INFO - Current password entered
+2017-02-18 22:44:59,874 - utility.Log -INFO - Save button clicked
+2017-02-18 22:44:59,978 - utility.Log -INFO - Personal information save message verified
+2017-02-18 22:45:00,678 - utility.Log -INFO - Driver session closed
+2017-02-18 22:45:34,253 - utility.Log -INFO - Application is launched
+2017-02-18 22:45:36,643 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 22:45:36,980 - utility.Log -INFO - User mail ID entered
+2017-02-18 22:45:37,124 - utility.Log -INFO - User password entered
+2017-02-18 22:45:38,250 - utility.Log -INFO - Sign In button clicked
+2017-02-18 22:45:38,296 - utility.Log -INFO - Error 1 compared
+2017-02-18 22:45:38,343 - utility.Log -INFO - Error 2 compared
+2017-02-18 22:45:38,773 - utility.Log -INFO - Driver session closed
+2017-02-18 22:46:39,893 - utility.Log -INFO - Application is launched
+2017-02-18 22:46:44,489 - utility.Log -INFO - Contact Us link on hompeage is clicked
+2017-02-18 22:46:50,976 - utility.Log -INFO - Subject Heading dropdown options are printed
+2017-02-18 22:46:51,852 - utility.Log -INFO - 'Customer service' option selected from the dropdown
+2017-02-18 22:46:58,088 - utility.Log -INFO - Email address enetered
+2017-02-18 22:47:00,136 - utility.Log -INFO - Order reference entered
+2017-02-18 22:47:06,981 - utility.Log -INFO - File upload button clicked
+2017-02-18 22:47:08,233 - utility.Log -INFO - File uploaded successfully
+2017-02-18 22:47:10,062 - utility.Log -INFO - Text entered into Message box
+2017-02-18 22:47:21,567 - utility.Log -INFO - Save button clicked
+2017-02-18 22:47:21,849 - utility.Log -INFO - Successfully sent message text verified
+2017-02-18 22:47:22,193 - utility.Log -INFO - Home button clicked
+2017-02-18 22:47:33,554 - utility.Log -INFO - Driver session closed
+2017-02-18 22:48:23,000 - utility.Log -INFO - Application is launched
+2017-02-18 22:48:25,754 - utility.Log -INFO - Homepage SignIn link clicked
+2017-02-18 22:48:26,425 - utility.Log -INFO - User mail ID entered
+2017-02-18 22:48:26,730 - utility.Log -INFO - User password entered
+2017-02-18 22:48:28,602 - utility.Log -INFO - Sign In button clicked
+2017-02-18 22:48:28,602 - utility.Log -INFO - User logged into the account
+2017-02-18 22:48:28,667 - utility.Log -INFO - Account user welcome text verified
+2017-02-18 22:48:29,141 - utility.Log -INFO - Driver session closed
+2017-02-18 22:48:55,311 - utility.Log -INFO - Application is launched
+2017-02-18 22:48:58,028 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 22:48:58,250 - utility.Log -INFO - User mail ID entered
+2017-02-18 22:48:58,418 - utility.Log -INFO - User password entered
+2017-02-18 22:48:59,714 - utility.Log -INFO - Sign In button clicked
+2017-02-18 22:48:59,803 - utility.Log -INFO - Error 1 compared
+2017-02-18 22:48:59,874 - utility.Log -INFO - Error 2 compared
+2017-02-18 22:49:00,780 - utility.Log -INFO - Driver session closed
+2017-02-18 22:49:16,984 - utility.Log -INFO - Application is launched
+2017-02-18 22:49:17,113 - utility.Log -INFO - Women menu tooltip text verified
+2017-02-18 22:49:17,228 - utility.Log -INFO - Submenus of 'Women->Tops are prrinted
+2017-02-18 22:49:17,320 - utility.Log -INFO - Submenus of 'Women->Dresses are printed
+2017-02-18 22:49:17,624 - utility.Log -INFO - Tooltip texts of Women->Tops submenus printed
+2017-02-18 22:49:17,736 - utility.Log -INFO - Tooltip text of DRESSES menu verified
+2017-02-18 22:49:17,843 - utility.Log -INFO - Submenus of 'Women->Dresses are printed
+2017-02-18 22:49:18,080 - utility.Log -INFO - Tooltip texts of Women->Tops submenus printed
+2017-02-18 22:49:18,170 - utility.Log -INFO - Tooltip text of T-SHIRTS menu verified
+2017-02-18 22:49:25,523 - utility.Log -INFO - T-shirts photo frame text under Catalog page verified
+2017-02-18 22:49:31,175 - utility.Log -INFO - Blouses photo frame text under Catalog page verified
+2017-02-18 22:49:38,558 - utility.Log -INFO - Casual Dresses photo frame text under Catalog page verified
+2017-02-18 22:49:44,882 - utility.Log -INFO - Evening Dresses photo frame text under Catalog page verified
+2017-02-18 22:49:52,347 - utility.Log -INFO - Summer Dresses photo frame text under Catalog page verified
+2017-02-18 22:49:56,978 - utility.Log -INFO - Driver session closed
+2017-02-18 22:50:20,514 - utility.Log -INFO - Application is launched
+2017-02-18 22:50:23,637 - utility.Log -INFO - Homepage SignIn link clicked
+2017-02-18 22:50:24,494 - utility.Log -INFO - User mail ID entered
+2017-02-18 22:50:25,151 - utility.Log -INFO - User password entered
+2017-02-18 22:50:27,456 - utility.Log -INFO - Sign In button clicked
+2017-02-18 22:50:27,456 - utility.Log -INFO - User logged into the account
+2017-02-18 22:50:27,521 - utility.Log -INFO - Account user welcome text verified
+2017-02-18 22:50:28,866 - utility.Log -INFO - My Personal Information button clicked
+2017-02-18 22:50:32,577 - utility.Log -INFO - Home button clicked
+2017-02-18 22:50:32,622 - utility.Log -INFO - Text on the homepage verified
+2017-02-18 22:50:32,700 - utility.Log -INFO - User account link on homepage clicked
+2017-02-18 22:50:32,700 - utility.Log -INFO - Account user welcome text verified again
+2017-02-18 22:50:35,184 - utility.Log -INFO - My Personal Information button clicked
+2017-02-18 22:50:35,242 - utility.Log -INFO - My account information text verified
+2017-02-18 22:50:35,892 - utility.Log -INFO - DOB_Day verified
+2017-02-18 22:50:56,224 - utility.Log -INFO - DOB_Month verified
+2017-02-18 22:51:16,825 - utility.Log -INFO - DOB_Year verified
+2017-02-18 22:51:18,559 - utility.Log -INFO - Save button clicked
+2017-02-18 22:51:22,555 - utility.Log -INFO - Current password entered
+2017-02-18 22:51:24,135 - utility.Log -INFO - Save button clicked
+2017-02-18 22:51:24,184 - utility.Log -INFO - Personal information save message verified
+2017-02-18 22:51:24,559 - utility.Log -INFO - Driver session closed
+2017-02-18 22:51:48,362 - utility.Log -INFO - Application is launched
+2017-02-18 22:51:51,436 - utility.Log -INFO - Homepage SignIn button clicked
+2017-02-18 22:51:53,999 - utility.Log -INFO - Forget password message compared
+2017-02-18 22:51:54,047 - utility.Log -INFO - Email address field is available
+2017-02-18 22:51:54,078 - utility.Log -INFO - Retreive Password btn available and enabled
+2017-02-18 22:51:54,109 - utility.Log -INFO - Home icon tooltip text printed
+2017-02-18 22:51:58,180 - utility.Log -INFO - Home icon clicked
+2017-02-18 22:51:58,221 - utility.Log -INFO - Returned to homepage
+2017-02-18 22:52:00,747 - utility.Log -INFO - Driver session closed
+2017-02-18 22:52:24,356 - utility.Log -INFO - Application is launched
+2017-02-18 22:52:28,526 - utility.Log -INFO - News Letter submission button clicked
+2017-02-18 22:52:28,578 - utility.Log -INFO - Newsletter submission Error message verified
+2017-02-18 22:52:30,954 - utility.Log -INFO - Driver session closed
+2017-02-18 22:52:52,862 - utility.Log -INFO - Application is launched
+2017-02-18 22:52:54,827 - utility.Log -INFO - Terms and Conditions link clicked
+2017-02-18 22:52:54,992 - utility.Log -INFO - Terms and conditions page header message verified
+2017-02-18 22:52:55,059 - utility.Log -INFO - Terms and conditions rule1 message verified
+2017-02-18 22:52:55,121 - utility.Log -INFO - Terms and conditions rule2 message verified
+2017-02-18 22:52:55,215 - utility.Log -INFO - Terms and conditions rule3 message verified
+2017-02-18 22:52:58,424 - utility.Log -INFO - Home icon clicked
+2017-02-18 22:53:00,770 - utility.Log -INFO - Driver session closed
