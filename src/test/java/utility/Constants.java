@@ -9,5 +9,5 @@ public class Constants {
     public final static String sheet_name1="UserCredentials";
     public final static String chrome_driver_path="E:\\Softwares\\Selenium 2.53 related\\chromedriver.exe";
     public final static String screenshot_filepath="G:\\SeleniumLabs\\Practice\\AutomationPracticeStoreMod\\Screenshots\\";
-    public final static String autoIt_exeScripPath="C:\\Users\\Sony\\Documents\\AutoPrac.exe";
+    public final static String autoIt_exeScriptPath="C:\\Users\\Sony\\Documents\\AutoPrac.exe";
 }
