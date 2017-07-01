@@ -6423,3 +6423,279 @@
 2017-02-18 22:52:55,215 [main] INFO utility.Log - Terms and conditions rule3 message verified
 2017-02-18 22:52:58,424 [main] INFO utility.Log - Home icon clicked
 2017-02-18 22:53:00,770 [main] INFO utility.Log - Driver session closed
+2017-06-26 17:40:24,765 [main] INFO utility.Log - Application is launched
+2017-06-26 17:40:29,439 [main] INFO utility.Log - Sign in link clicked
+2017-06-26 17:41:29,907 [main] INFO utility.Log - Application is launched
+2017-06-26 17:41:32,972 [main] INFO utility.Log - Sign in link clicked
+2017-06-26 17:42:51,075 [main] INFO utility.Log - Application is launched
+2017-06-26 17:43:02,758 [main] INFO utility.Log - Sign in link clicked
+2017-06-26 17:43:41,782 [main] INFO utility.Log - Application is launched
+2017-06-26 17:43:44,459 [main] INFO utility.Log - Sign in link clicked
+2017-06-26 17:59:36,746 [main] INFO utility.Log - Application is launched
+2017-06-26 17:59:41,803 [main] INFO utility.Log - Sign in link clicked
+2017-06-26 17:59:46,252 [main] INFO utility.Log - User mail ID entered
+2017-06-26 17:59:46,743 [main] INFO utility.Log - User password entered
+2017-06-26 17:59:49,037 [main] INFO utility.Log - Sign In button clicked
+2017-06-26 17:59:49,278 [main] INFO utility.Log - User info is printed
+2017-06-26 17:59:49,314 [main] INFO utility.Log - User account title printed
+2017-06-26 17:59:51,734 [main] INFO utility.Log - Sign out button clicked
+2017-06-26 17:59:52,117 [main] INFO utility.Log - Driver session closed
+2017-06-26 18:06:14,723 [main] INFO utility.Log - Application is launched
+2017-06-26 18:06:18,349 [main] INFO utility.Log - Sign in link clicked
+2017-06-26 18:06:23,432 [main] INFO utility.Log - User mail ID entered
+2017-06-26 18:06:24,606 [main] INFO utility.Log - User password entered
+2017-06-26 18:06:27,251 [main] INFO utility.Log - Sign In button clicked
+2017-06-26 18:06:27,673 [main] INFO utility.Log - User info is printed
+2017-06-26 18:06:27,708 [main] INFO utility.Log - User account title printed
+2017-06-26 18:06:29,982 [main] INFO utility.Log - Sign out button clicked
+2017-06-26 18:06:30,271 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:34:57,737 [main] INFO utility.Log - Application is launched
+2017-07-01 11:35:03,391 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 11:36:47,472 [main] INFO utility.Log - Application is launched
+2017-07-01 11:36:51,355 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 11:37:52,589 [main] INFO utility.Log - Application is launched
+2017-07-01 11:37:55,348 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 11:39:00,217 [main] INFO utility.Log - Application is launched
+2017-07-01 11:39:03,293 [main] INFO utility.Log - Cart button clicked
+2017-07-01 11:39:03,899 [main] INFO utility.Log - Shipping Cart Summary title verified
+2017-07-01 11:39:03,977 [main] INFO utility.Log - Shopping cart summary alert warning verified
+2017-07-01 11:39:09,740 [main] INFO utility.Log - T-shirts main menu clicked
+2017-07-01 11:39:09,930 [main] INFO utility.Log - T-shirts page to add product displayed
+2017-07-01 11:39:11,582 [main] INFO utility.Log - Add to Cart button clicked
+2017-07-01 11:39:32,397 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:40:05,848 [main] INFO utility.Log - Application is launched
+2017-07-01 11:40:10,315 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:40:10,529 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:40:34,429 [main] INFO utility.Log - Application is launched
+2017-07-01 11:40:37,930 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:40:52,960 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:41:18,267 [main] INFO utility.Log - Application is launched
+2017-07-01 11:41:21,982 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:41:22,100 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:41:57,048 [main] INFO utility.Log - Application is launched
+2017-07-01 11:42:00,222 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 11:42:00,507 [main] INFO utility.Log - SignIn page title verified
+2017-07-01 11:42:04,192 [main] INFO utility.Log - User mail ID entered
+2017-07-01 11:42:05,691 [main] INFO utility.Log - User password entered
+2017-07-01 11:42:08,513 [main] INFO utility.Log - Sign In button clicked
+2017-07-01 11:42:08,645 [main] INFO utility.Log - My account information message verified
+2017-07-01 11:42:19,069 [main] INFO utility.Log - Casual dresses sub menu clicked
+2017-07-01 11:42:19,181 [main] INFO utility.Log - Casual Dresses page to add product displayed
+2017-07-01 11:42:22,773 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:42:50,030 [main] INFO utility.Log - Application is launched
+2017-07-01 11:42:54,833 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 11:42:55,048 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:43:21,447 [main] INFO utility.Log - Application is launched
+2017-07-01 11:43:24,467 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 11:43:26,878 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:43:49,793 [main] INFO utility.Log - Application is launched
+2017-07-01 11:43:53,783 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 11:44:08,579 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:44:28,785 [main] INFO utility.Log - Application is launched
+2017-07-01 11:44:32,000 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:44:34,080 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:44:57,640 [main] INFO utility.Log - Application is launched
+2017-07-01 11:45:00,682 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:45:00,885 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:45:21,806 [main] INFO utility.Log - Application is launched
+2017-07-01 11:45:25,606 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:45:39,336 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:45:58,448 [main] INFO utility.Log - Application is launched
+2017-07-01 11:46:07,032 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:46:35,118 [main] INFO utility.Log - Application is launched
+2017-07-01 11:46:38,083 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 11:46:40,165 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:47:04,294 [main] INFO utility.Log - Application is launched
+2017-07-01 11:47:06,775 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 11:47:09,099 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:47:35,919 [main] INFO utility.Log - Application is launched
+2017-07-01 11:47:39,850 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 11:47:40,416 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:48:05,238 [main] INFO utility.Log - Application is launched
+2017-07-01 11:48:05,897 [main] INFO utility.Log - Women menu tooltip text verified
+2017-07-01 11:48:06,453 [main] INFO utility.Log - Submenus of 'Women->Tops are prrinted
+2017-07-01 11:48:06,616 [main] INFO utility.Log - Submenus of 'Women->Dresses are printed
+2017-07-01 11:48:06,859 [main] INFO utility.Log - Tooltip texts of Women->Tops submenus printed
+2017-07-01 11:48:07,211 [main] INFO utility.Log - Tooltip text of DRESSES menu verified
+2017-07-01 11:48:07,526 [main] INFO utility.Log - Submenus of 'Women->Dresses are printed
+2017-07-01 11:48:07,945 [main] INFO utility.Log - Tooltip texts of Women->Tops submenus printed
+2017-07-01 11:48:08,123 [main] INFO utility.Log - Tooltip text of T-SHIRTS menu verified
+2017-07-01 11:48:24,582 [main] INFO utility.Log - T-shirts photo frame text under Catalog page verified
+2017-07-01 11:48:31,866 [main] INFO utility.Log - Blouses photo frame text under Catalog page verified
+2017-07-01 11:48:39,247 [main] INFO utility.Log - Casual Dresses photo frame text under Catalog page verified
+2017-07-01 11:48:47,899 [main] INFO utility.Log - Evening Dresses photo frame text under Catalog page verified
+2017-07-01 11:48:56,851 [main] INFO utility.Log - Summer Dresses photo frame text under Catalog page verified
+2017-07-01 11:49:01,853 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:49:28,643 [main] INFO utility.Log - Application is launched
+2017-07-01 11:49:35,562 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:49:36,681 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:49:58,285 [main] INFO utility.Log - Application is launched
+2017-07-01 11:50:01,228 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:50:03,711 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:50:24,281 [main] INFO utility.Log - Application is launched
+2017-07-01 11:50:27,187 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 11:50:29,540 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:50:52,217 [main] INFO utility.Log - Application is launched
+2017-07-01 11:50:56,066 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 11:50:57,276 [main] INFO utility.Log - SignIn page title verified
+2017-07-01 11:51:08,855 [main] INFO utility.Log - User mail ID entered
+2017-07-01 11:51:10,179 [main] INFO utility.Log - User password entered
+2017-07-01 11:51:15,142 [main] INFO utility.Log - Sign In button clicked
+2017-07-01 11:51:15,244 [main] INFO utility.Log - My account information message verified
+2017-07-01 11:51:20,985 [main] INFO utility.Log - Casual dresses sub menu clicked
+2017-07-01 11:51:21,104 [main] INFO utility.Log - Casual Dresses page to add product displayed
+2017-07-01 11:51:35,132 [main] INFO utility.Log - Cart button on homepage clicked
+2017-07-01 11:51:35,215 [main] INFO utility.Log - Shopping Cart page opened
+2017-07-01 11:51:58,239 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:52:24,154 [main] INFO utility.Log - Application is launched
+2017-07-01 11:52:28,093 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 11:52:32,288 [main] INFO utility.Log - Forget password message compared
+2017-07-01 11:52:32,387 [main] INFO utility.Log - Email address field is available
+2017-07-01 11:52:32,459 [main] INFO utility.Log - Retreive Password btn available and enabled
+2017-07-01 11:52:33,903 [main] INFO utility.Log - Home icon tooltip text printed
+2017-07-01 11:52:39,233 [main] INFO utility.Log - Home icon clicked
+2017-07-01 11:52:39,354 [main] INFO utility.Log - Returned to homepage
+2017-07-01 11:52:41,675 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:53:14,947 [main] INFO utility.Log - Application is launched
+2017-07-01 11:53:19,384 [main] INFO utility.Log - News Letter submission button clicked
+2017-07-01 11:53:19,457 [main] INFO utility.Log - Newsletter submission Error message verified
+2017-07-01 11:53:21,800 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:53:50,470 [main] INFO utility.Log - Application is launched
+2017-07-01 11:53:53,622 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 11:53:53,698 [main] INFO utility.Log - SignIn page title verified
+2017-07-01 11:53:53,902 [main] INFO utility.Log - User mail ID entered
+2017-07-01 11:53:54,116 [main] INFO utility.Log - User password entered
+2017-07-01 11:53:56,978 [main] INFO utility.Log - Sign In button clicked
+2017-07-01 11:53:57,054 [main] INFO utility.Log - My account information message verified
+2017-07-01 11:54:02,773 [main] INFO utility.Log - Casual dresses sub menu clicked
+2017-07-01 11:54:02,865 [main] INFO utility.Log - Casual Dresses page to add product displayed
+2017-07-01 11:54:05,195 [main] INFO utility.Log - Cart button on homepage clicked
+2017-07-01 11:54:28,081 [main] INFO utility.Log - Driver session closed
+2017-07-01 11:54:50,530 [main] INFO utility.Log - Application is launched
+2017-07-01 11:54:50,850 [main] INFO utility.Log - Terms and Conditions link clicked
+2017-07-01 11:55:11,622 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:02:29,235 [main] INFO utility.Log - Application is launched
+2017-07-01 12:02:35,322 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 12:03:34,195 [main] INFO utility.Log - Application is launched
+2017-07-01 12:03:38,545 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 12:04:20,696 [main] INFO utility.Log - Application is launched
+2017-07-01 12:04:23,781 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 12:05:22,302 [main] INFO utility.Log - Application is launched
+2017-07-01 12:05:25,056 [main] INFO utility.Log - Cart button clicked
+2017-07-01 12:05:25,423 [main] INFO utility.Log - Shipping Cart Summary title verified
+2017-07-01 12:05:25,517 [main] INFO utility.Log - Shopping cart summary alert warning verified
+2017-07-01 12:05:29,000 [main] INFO utility.Log - T-shirts main menu clicked
+2017-07-01 12:05:29,259 [main] INFO utility.Log - T-shirts page to add product displayed
+2017-07-01 12:05:30,365 [main] INFO utility.Log - Add to Cart button clicked
+2017-07-01 12:05:41,565 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:06:10,209 [main] INFO utility.Log - Application is launched
+2017-07-01 12:06:13,613 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:06:15,951 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:06:42,586 [main] INFO utility.Log - Application is launched
+2017-07-01 12:06:45,842 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:06:48,172 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:07:09,047 [main] INFO utility.Log - Application is launched
+2017-07-01 12:07:14,311 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:07:16,648 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:07:35,931 [main] INFO utility.Log - Application is launched
+2017-07-01 12:07:38,832 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 12:07:39,059 [main] INFO utility.Log - SignIn page title verified
+2017-07-01 12:07:39,764 [main] INFO utility.Log - User mail ID entered
+2017-07-01 12:07:40,297 [main] INFO utility.Log - User password entered
+2017-07-01 12:07:42,607 [main] INFO utility.Log - Sign In button clicked
+2017-07-01 12:07:42,742 [main] INFO utility.Log - My account information message verified
+2017-07-01 12:07:50,336 [main] INFO utility.Log - Casual dresses sub menu clicked
+2017-07-01 12:07:50,439 [main] INFO utility.Log - Casual Dresses page to add product displayed
+2017-07-01 12:07:51,319 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:08:15,523 [main] INFO utility.Log - Application is launched
+2017-07-01 12:08:19,599 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 12:08:21,994 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:08:45,406 [main] INFO utility.Log - Application is launched
+2017-07-01 12:08:49,367 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 12:08:51,809 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:09:16,690 [main] INFO utility.Log - Application is launched
+2017-07-01 12:09:20,028 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 12:09:22,463 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:09:49,348 [main] INFO utility.Log - Application is launched
+2017-07-01 12:09:52,304 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:09:54,635 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:10:25,391 [main] INFO utility.Log - Application is launched
+2017-07-01 12:10:28,783 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:10:31,116 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:10:52,470 [main] INFO utility.Log - Application is launched
+2017-07-01 12:10:56,187 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:10:58,521 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:11:18,456 [main] INFO utility.Log - Application is launched
+2017-07-01 12:11:27,349 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:11:50,722 [main] INFO utility.Log - Application is launched
+2017-07-01 12:11:53,668 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 12:11:55,751 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:12:28,707 [main] INFO utility.Log - Application is launched
+2017-07-01 12:12:32,085 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 12:12:32,374 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:12:58,088 [main] INFO utility.Log - Application is launched
+2017-07-01 12:13:02,438 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 12:13:04,774 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:13:25,833 [main] INFO utility.Log - Application is launched
+2017-07-01 12:13:26,420 [main] INFO utility.Log - Women menu tooltip text verified
+2017-07-01 12:13:26,737 [main] INFO utility.Log - Submenus of 'Women->Tops are prrinted
+2017-07-01 12:13:26,955 [main] INFO utility.Log - Submenus of 'Women->Dresses are printed
+2017-07-01 12:13:27,136 [main] INFO utility.Log - Tooltip texts of Women->Tops submenus printed
+2017-07-01 12:13:27,503 [main] INFO utility.Log - Tooltip text of DRESSES menu verified
+2017-07-01 12:13:27,691 [main] INFO utility.Log - Submenus of 'Women->Dresses are printed
+2017-07-01 12:13:27,965 [main] INFO utility.Log - Tooltip texts of Women->Tops submenus printed
+2017-07-01 12:13:28,144 [main] INFO utility.Log - Tooltip text of T-SHIRTS menu verified
+2017-07-01 12:13:40,330 [main] INFO utility.Log - T-shirts photo frame text under Catalog page verified
+2017-07-01 12:13:49,745 [main] INFO utility.Log - Blouses photo frame text under Catalog page verified
+2017-07-01 12:13:58,964 [main] INFO utility.Log - Casual Dresses photo frame text under Catalog page verified
+2017-07-01 12:14:09,090 [main] INFO utility.Log - Evening Dresses photo frame text under Catalog page verified
+2017-07-01 12:14:17,994 [main] INFO utility.Log - Summer Dresses photo frame text under Catalog page verified
+2017-07-01 12:14:22,667 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:14:42,803 [main] INFO utility.Log - Application is launched
+2017-07-01 12:14:46,878 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:14:47,731 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:15:15,581 [main] INFO utility.Log - Application is launched
+2017-07-01 12:15:19,135 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:15:21,479 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:15:44,616 [main] INFO utility.Log - Application is launched
+2017-07-01 12:15:48,277 [main] INFO utility.Log - Homepage SignIn link clicked
+2017-07-01 12:15:50,602 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:16:19,297 [main] INFO utility.Log - Application is launched
+2017-07-01 12:16:22,251 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 12:16:22,346 [main] INFO utility.Log - SignIn page title verified
+2017-07-01 12:16:23,586 [main] INFO utility.Log - User mail ID entered
+2017-07-01 12:16:23,869 [main] INFO utility.Log - User password entered
+2017-07-01 12:16:26,660 [main] INFO utility.Log - Sign In button clicked
+2017-07-01 12:16:26,745 [main] INFO utility.Log - My account information message verified
+2017-07-01 12:16:33,099 [main] INFO utility.Log - Casual dresses sub menu clicked
+2017-07-01 12:16:33,285 [main] INFO utility.Log - Casual Dresses page to add product displayed
+2017-07-01 12:16:37,538 [main] INFO utility.Log - Cart button on homepage clicked
+2017-07-01 12:16:37,636 [main] INFO utility.Log - Shopping Cart page opened
+2017-07-01 12:16:57,905 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:17:20,715 [main] INFO utility.Log - Application is launched
+2017-07-01 12:17:24,223 [main] INFO utility.Log - Homepage SignIn button clicked
+2017-07-01 12:17:25,692 [main] INFO utility.Log - Forget password message compared
+2017-07-01 12:17:25,758 [main] INFO utility.Log - Email address field is available
+2017-07-01 12:17:25,805 [main] INFO utility.Log - Retreive Password btn available and enabled
+2017-07-01 12:17:25,859 [main] INFO utility.Log - Home icon tooltip text printed
+2017-07-01 12:17:30,726 [main] INFO utility.Log - Home icon clicked
+2017-07-01 12:17:30,796 [main] INFO utility.Log - Returned to homepage
+2017-07-01 12:17:33,124 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:17:54,500 [main] INFO utility.Log - Application is launched
+2017-07-01 12:17:58,805 [main] INFO utility.Log - News Letter submission button clicked
+2017-07-01 12:17:58,896 [main] INFO utility.Log - Newsletter submission Error message verified
+2017-07-01 12:18:01,219 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:18:39,082 [main] INFO utility.Log - Application is launched
+2017-07-01 12:18:43,603 [main] INFO utility.Log - Sign in link clicked
+2017-07-01 12:18:43,838 [main] INFO utility.Log - SignIn page title verified
+2017-07-01 12:18:44,360 [main] INFO utility.Log - User mail ID entered
+2017-07-01 12:18:45,009 [main] INFO utility.Log - User password entered
+2017-07-01 12:18:47,666 [main] INFO utility.Log - Sign In button clicked
+2017-07-01 12:18:47,860 [main] INFO utility.Log - My account information message verified
+2017-07-01 12:18:53,649 [main] INFO utility.Log - Casual dresses sub menu clicked
+2017-07-01 12:18:53,747 [main] INFO utility.Log - Casual Dresses page to add product displayed
+2017-07-01 12:18:56,545 [main] INFO utility.Log - Cart button on homepage clicked
+2017-07-01 12:19:19,204 [main] INFO utility.Log - Driver session closed
+2017-07-01 12:19:51,982 [main] INFO utility.Log - Application is launched
+2017-07-01 12:19:52,324 [main] INFO utility.Log - Terms and Conditions link clicked
+2017-07-01 12:20:13,196 [main] INFO utility.Log - Driver session closed

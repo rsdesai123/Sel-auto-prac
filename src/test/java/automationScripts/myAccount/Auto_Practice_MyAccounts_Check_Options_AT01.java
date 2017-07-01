@@ -25,7 +25,7 @@ import utility.Util;
 
 /*This test case is to validate the different options/buttons available under My account section.*/
 public class Auto_Practice_MyAccounts_Check_Options_AT01 {
-	private static WebDriver driver=null;
+	private static WebDriver driver;
 	private static BaseClass baseClass=new BaseClass(driver);
 	@Parameters("browser")
 	@BeforeMethod

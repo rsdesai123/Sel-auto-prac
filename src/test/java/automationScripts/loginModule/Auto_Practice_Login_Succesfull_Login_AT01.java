@@ -26,7 +26,7 @@ import utility.ReRunFailedTests;
 import utility.Util;
 /*This test script to validate that user can login to the application successfully. */
 public class Auto_Practice_Login_Succesfull_Login_AT01 {
-private static WebDriver driver=null;
+private static WebDriver driver;
 private static BaseClass baseClass=new BaseClass(driver);
 @Parameters("browser")
 @BeforeMethod

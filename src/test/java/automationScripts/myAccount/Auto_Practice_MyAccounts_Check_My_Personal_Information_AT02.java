@@ -26,7 +26,7 @@ import utility.Util;
 
 /*This test case is to validate that user's personal information available under My account section can be updated successfully.*/
 public class Auto_Practice_MyAccounts_Check_My_Personal_Information_AT02 {
-	private static WebDriver driver=null;
+	private static WebDriver driver;
 	private static BaseClass baseClass=new BaseClass(driver);
     @Parameters("browser")
 	@BeforeMethod

@@ -4,6 +4,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxBinary;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxProfile;
@@ -12,7 +13,7 @@ import utility.Constants;
 import utility.Log;
 public class BaseClass {
 	public static WebDriver driver;
-	static String driverPath =Constants.chrome_driver_path;
+	public static String driverPath=Constants.chrome_driver_path;
 	public BaseClass(WebDriver driver)
 	{
 		BaseClass.driver=driver;
@@ -38,7 +39,10 @@ public class BaseClass {
 	private static WebDriver initChromeDriver(String appURL) {
 		System.out.println("Launching google chrome with new profile..");
 		System.setProperty("webdriver.chrome.driver", driverPath);
-		WebDriver driver = new ChromeDriver();
+	//System.setProperty("webdriver.chrome.driver", "E:\\Softwares\\Selenium 2.53 related\\chromedriver.exe");
+		ChromeOptions chromeOptions= new ChromeOptions();
+		chromeOptions.setBinary("E:\\Softwares\\Selenium 2.53 related\\chrome64_53.0.2785.116\\chrome.exe");
+		ChromeDriver driver = new ChromeDriver(chromeOptions);
 		driver.manage().window().maximize();
 		driver.navigate().to(appURL);
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -47,10 +51,10 @@ public class BaseClass {
 
 	private static WebDriver initFirefoxDriver(String appURL) {
 		System.out.println("Launching Firefox browser..");
-		File pathBinary = new File("C:\\program files\\Mozilla Firefox\\firefox.exe");
+		File pathBinary = new File("C:\\program files\\Mozilla Firefox (x86)\\firefox.exe");
 		FirefoxBinary firefoxBinary = new FirefoxBinary(pathBinary);
 		FirefoxProfile firefoxProfile = new FirefoxProfile();       
-		WebDriver driver = new FirefoxDriver(firefoxBinary, firefoxProfile);
+		driver = new FirefoxDriver(firefoxBinary, firefoxProfile);
 		driver.manage().window().maximize();
 		driver.navigate().to(appURL);
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);

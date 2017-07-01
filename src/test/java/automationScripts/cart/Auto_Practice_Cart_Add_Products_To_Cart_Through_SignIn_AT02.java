@@ -28,7 +28,7 @@ import utility.Util;
 public class Auto_Practice_Cart_Add_Products_To_Cart_Through_SignIn_AT02 {
 	public static WebDriver driver;
 	private static BaseClass baseClass=new BaseClass(driver);
-	@Parameters("browser")
+    @Parameters("browser")
 	@BeforeMethod
 	public static void setUp(String browser)
 	{

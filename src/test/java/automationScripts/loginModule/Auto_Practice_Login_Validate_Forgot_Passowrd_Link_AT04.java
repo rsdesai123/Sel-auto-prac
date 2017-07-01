@@ -24,7 +24,7 @@ import utility.Util;
 /*This test script to validate that 'Forgot Password' link works fine. */
 public class Auto_Practice_Login_Validate_Forgot_Passowrd_Link_AT04 {
 	
-	private static WebDriver driver=null;
+	private static WebDriver driver;
 	private static BaseClass baseClass=new BaseClass(driver);
 	@Parameters("browser")
 	@BeforeMethod
